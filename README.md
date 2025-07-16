@@ -2,8 +2,6 @@
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
 ## 📊 Project Overview
 
 This Power BI Dashboard is designed for **AirPure Innovations**, a hypothetical company aiming to identify the most suitable Indian state to launch a new air purifier product. The goal is to **analyze air quality data and correlate it with health, population, and vehicle metrics** to drive data-informed market entry decisions.
